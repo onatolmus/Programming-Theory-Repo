@@ -356,6 +356,7 @@
 "Assets/Scripts/Chicken.cs"
 "Assets/Scripts/DestroyOutOfBounds.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/MenuUIHandler.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Rooster.cs"
 -langversion:9.0
